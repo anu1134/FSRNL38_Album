@@ -1,0 +1,48 @@
+
+body {
+    height: 1000px;
+}
+
+h1 {
+    color: green;
+    background-color: aqua;
+}
+
+#header1{
+    color: red;
+}
+
+.header {
+    color: violet
+}
+
+span {
+    background-color: red;
+}
+
+.parent {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    color: black;
+    border: 1px solid black;
+}
+
+.child1 {
+    width: 200px;
+    height: 100px;
+    background-color: aquamarine;
+    color: black;
+    border: 1px solid black;
+}
+
+.child2 {
+
+    width: 200px;
+    height: 100px;
+    background-color: greenyellow;
+    color: black;
+    border: 1px solid black;
+
+}
+
